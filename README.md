@@ -29,7 +29,7 @@ measures the impact with real evaluation metrics not just "it looks fine."
 
 
 All code chunking harness, indexing, retrieval, reranking, synthetic
-test-set generation, and evaluation — lives in a single notebook,
+test-set generation, and evaluation lives in a single notebook,
 `rag_pipeline.ipynb`, It was built incrementally over the course of the month, so
 later cells depend on variables and functions defined earlier in the same
 notebook (run top to bottom).
